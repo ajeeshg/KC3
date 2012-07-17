@@ -11,6 +11,8 @@ public class KcMain {
 		//This is a test class
 		
 		System.out.println("Added a line from Master");
+		System.out.println("Added a line to Master after Tagging at 10:01");
+		
 	}
 
 }
