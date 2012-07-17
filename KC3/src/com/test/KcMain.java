@@ -13,6 +13,9 @@ public class KcMain {
 		System.out.println("Added a line from Master");
 		System.out.println("Added a line to Master after Tagging at 10:01");
 		
+		
+		System.out.println("Adding a line from Branch1");
+		System.out.println("Added another line after Tagging at 10:51");
 	}
 
 }
