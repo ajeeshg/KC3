@@ -9,6 +9,8 @@ public class KcMain {
 		// TODO Auto-generated method stub
 
 		//This is a test class
+		
+		System.out.println("Added a line from Master");
 	}
 
 }
